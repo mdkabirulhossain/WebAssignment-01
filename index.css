@@ -84,6 +84,9 @@ li{
     margin-right: 60px;
     border-right: 1px solid black;
 }
+.left-para{
+    font-weight: bold;
+}
 .icon{
     margin-right: 40px;
 }
@@ -141,4 +144,8 @@ li{
 .last-div-icon{
     padding: 20px;
     font-size:xx-large;
+}
+
+.last-div-paragraph{
+    color: #87929A;
 }
